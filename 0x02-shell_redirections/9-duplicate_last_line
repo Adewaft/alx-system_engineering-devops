@@ -1,2 +1,2 @@
 #!/bin/bash
-sort 1-confused_smiley | uniq -c -1
+sort iacta | uniq -c -1
